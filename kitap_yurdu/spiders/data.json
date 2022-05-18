@@ -1,0 +1,602 @@
+[
+  {
+    "title": "Gece Yarısı Kütüphanesi",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11526279/wi:100/wh:true",
+    "author": "Matt Haig",
+    "price": "58,00"
+  },
+  {
+    "title": "Veronika Ölmek İstiyor",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11481517/wi:100/wh:true",
+    "author": "Paulo Coelho",
+    "price": "49,50"
+  },
+  {
+    "title": "Şeker Portakalı (Ciltsiz)",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11462950/wi:100/wh:true",
+    "author": "Jose Mauro De Vasconcelos",
+    "price": "45,00"
+  },
+  {
+    "title": "Fareler ve İnsanlar",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11227945/wi:100/wh:true",
+    "author": "John Steinbeck",
+    "price": "28,00"
+  },
+  {
+    "title": "Simyacı (Ciltsiz)",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11484455/wi:100/wh:true",
+    "author": "Paulo Coelho",
+    "price": "45,00"
+  },
+  {
+    "title": "Ben, Kirke",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11472268/wi:100/wh:true",
+    "author": "Madeline Miller",
+    "price": "64,00"
+  },
+  {
+    "title": "Hayvan Çiftliği (Ciltsiz)",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11447395/wi:100/wh:true",
+    "author": "George Orwell",
+    "price": "17,00"
+  },
+  {
+    "title": "Akhilleus’un Şarkısı",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11459231/wi:100/wh:true",
+    "author": "Madeline Miller",
+    "price": "60,00"
+  },
+  {
+    "title": "Bin Dokuz Yüz Seksen Dört - 1984 ",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11338358/wi:100/wh:true",
+    "author": "George Orwell",
+    "price": "9,00"
+  },
+  {
+    "title": "Anka Kuşu",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11544676/wi:100/wh:true",
+    "author": "Yılmaz Özdil",
+    "price": "74,00"
+  },
+  {
+    "title": "Kürk Mantolu Madonna",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:1207631/wi:100/wh:true",
+    "author": "Sabahattin Ali",
+    "price": "7,50"
+  },
+  {
+    "title": "Saatleri Ayarlama Enstitüsü",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:4542435/wi:100/wh:true",
+    "author": "Ahmet Hamdi Tanpınar",
+    "price": "90,00"
+  },
+  {
+    "title": "Tiamat (Karton Kapak)",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11521597/wi:100/wh:true",
+    "author": "İhsan Oktay Anar",
+    "price": "34,00"
+  },
+  {
+    "title": "Yaşamak",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:1177782/wi:100/wh:true",
+    "author": "Yu Hua ",
+    "price": "40,00"
+  },
+  {
+    "title": "Güneşi Uyandıralım",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11261075/wi:100/wh:true",
+    "author": "Jose Mauro De Vasconcelos",
+    "price": "57,50"
+  },
+  {
+    "title": "Kırmızı Pazartesi",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11432147/wi:100/wh:true",
+    "author": "Gabriel Garcia Marquez",
+    "price": "30,00"
+  },
+  {
+    "title": "İnsanlar",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11544036/wi:100/wh:true",
+    "author": "Matt Haig",
+    "price": "58,00"
+  },
+  {
+    "title": "Zeytindağı",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11517286/wi:100/wh:true",
+    "author": "Falih Rıfkı Atay",
+    "price": "30,00"
+  },
+  {
+    "title": "Aylak Adam",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11438831/wi:100/wh:true",
+    "author": "Yusuf Atılgan",
+    "price": "33,00"
+  },
+  {
+    "title": "En Çılgın Takıntı",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11562248/wi:100/wh:true",
+    "author": "Danielle Lori",
+    "price": "55,00"
+  },
+  {
+    "title": "Kıyamet Emeklisi (1.Cilt)",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11567469/wi:100/wh:true",
+    "author": "Şule Gürbüz",
+    "price": "78,00"
+  },
+  {
+    "title": "Kayıp Tanrılar Ülkesi",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11421625/wi:100/wh:true",
+    "author": "Ahmet Ümit",
+    "price": "42,00"
+  },
+  {
+    "title": "Semerkant",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:1135132/wi:100/wh:true",
+    "author": "Amin Maalouf",
+    "price": "48,00"
+  },
+  {
+    "title": "Doğu Ekspresinde Cinayet",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:5558946/wi:100/wh:true",
+    "author": "Agatha Christie",
+    "price": "52,00"
+  },
+  {
+    "title": "Kıyamet Emeklisi (2.Cilt)",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11567470/wi:100/wh:true",
+    "author": "Şule Gürbüz",
+    "price": "92,00"
+  },
+  {
+    "title": "Güzel Dünya, Neredesin?",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11560055/wi:100/wh:true",
+    "author": "Sally Rooney",
+    "price": "72,00"
+  },
+  {
+    "title": "Zamansız",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11566656/wi:100/wh:true",
+    "author": "Latife Tekin",
+    "price": "35,00"
+  },
+  {
+    "title": "Doğunun Limanları",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:1135331/wi:100/wh:true",
+    "author": "Amin Maalouf",
+    "price": "30,00"
+  },
+  {
+    "title": "Puslu Kıtalar Atlası",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11422412/wi:100/wh:true",
+    "author": "İhsan Oktay Anar",
+    "price": "57,00"
+  },
+  {
+    "title": "Okçu'nun Yolu",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11469968/wi:100/wh:true",
+    "author": "Paulo Coelho",
+    "price": "41,00"
+  },
+  {
+    "title": "Başkalarının Tanrısı",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11551977/wi:100/wh:true",
+    "author": "Mine Söğüt",
+    "price": "39,00"
+  },
+  {
+    "title": "Tek Yalnız Ben Değilim",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11346973/wi:100/wh:true",
+    "author": "Jean-Louis Fournier",
+    "price": "25,00"
+  },
+  {
+    "title": "Yüzyıllık Yalnızlık (Ciltsiz)",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11437413/wi:100/wh:true",
+    "author": "Gabriel Garcia Marquez",
+    "price": "83,00"
+  },
+  {
+    "title": "Aşk ve Öbür Cinler",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11469969/wi:100/wh:true",
+    "author": "Gabriel Garcia Marquez",
+    "price": "39,50"
+  },
+  {
+    "title": "Kuyucaklı Yusuf",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:1105919/wi:100/wh:true",
+    "author": "Sabahattin Ali",
+    "price": "16,00"
+  },
+  {
+    "title": "Huzursuzluk",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:2876841/wi:100/wh:true",
+    "author": "Zülfü Livaneli",
+    "price": "26,00"
+  },
+  {
+    "title": "Beyaz Zambaklar Ülkesinde",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11318908/wi:100/wh:true",
+    "author": "Grigory Petrov",
+    "price": "9,00"
+  },
+  {
+    "title": "Kalk Yerine Yat",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11484000/wi:100/wh:true",
+    "author": "Şermin Yaşar",
+    "price": "49,00"
+  },
+  {
+    "title": "İnce Memed 2",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:100877/wi:100/wh:true",
+    "author": "Yaşar Kemal",
+    "price": "62,00"
+  },
+  {
+    "title": "En Tatlı Kaçış",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11531809/wi:100/wh:true",
+    "author": "Danielle Lori",
+    "price": "49,00"
+  },
+  {
+    "title": "Yaklaşan Kasırga",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11556216/wi:100/wh:true",
+    "author": "Levent Gültekin",
+    "price": "59,00"
+  },
+  {
+    "title": "Billy Summers",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11556707/wi:100/wh:true",
+    "author": "Stephen King",
+    "price": "85,00"
+  },
+  {
+    "title": "Bir İdam Mahkumunun Son Günü",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:6678075/wi:100/wh:true",
+    "author": "Victor Hugo",
+    "price": "20,00"
+  },
+  {
+    "title": "Jane Eyre",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11438836/wi:100/wh:true",
+    "author": "Charlotte Brontë",
+    "price": "42,00"
+  },
+  {
+    "title": "Tutunamayanlar / Bütün Eserleri 1",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11462655/wi:100/wh:true",
+    "author": "Oğuz Atay",
+    "price": "92,00"
+  },
+  {
+    "title": "İnce Memed 1",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:6663013/wi:100/wh:true",
+    "author": "Yaşar Kemal",
+    "price": "54,00"
+  },
+  {
+    "title": "İçimizdeki Şeytan",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:1105911/wi:100/wh:true",
+    "author": "Sabahattin Ali",
+    "price": "18,00"
+  },
+  {
+    "title": "Dune",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11494736/wi:100/wh:true",
+    "author": "Frank Herbert",
+    "price": "92,00"
+  },
+  {
+    "title": "Çavdar Tarlasında Çocuklar",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:6532396/wi:100/wh:true",
+    "author": "J. D. Salinger",
+    "price": "40,00"
+  },
+  {
+    "title": "Bayan Ming’in Hiç Olmayan On Çocuğu",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:1133178/wi:100/wh:true",
+    "author": "Eric Emmanuel Schmitt",
+    "price": "36,00"
+  },
+  {
+    "title": "Uğultulu Tepeler",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11390613/wi:100/wh:true",
+    "author": "Emily Bronte",
+    "price": "38,00"
+  },
+  {
+    "title": "Cesur Yeni Dünya",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11447872/wi:100/wh:true",
+    "author": "Aldous Huxley",
+    "price": "48,00"
+  },
+  {
+    "title": "Bir İdam Mahkumunun Son Günü",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11318912/wi:100/wh:true",
+    "author": "Victor Hugo",
+    "price": "9,00"
+  },
+  {
+    "title": "Siddhartha (Ciltsiz)",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11260682/wi:100/wh:true",
+    "author": "Hermann Hesse",
+    "price": "34,00"
+  },
+  {
+    "title": "İki Şehrin Hikayesi",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11423366/wi:100/wh:true",
+    "author": "Charles Dickens",
+    "price": "40,00"
+  },
+  {
+    "title": "Süt ve Bal",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:4264898/wi:100/wh:true",
+    "author": "Rupi Kaur",
+    "price": "59,98"
+  },
+  {
+    "title": "02:02 Ayçiçeği Karnavalı (Cep Boy)",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11560173/wi:100/wh:true",
+    "author": "N. G. Kabal",
+    "price": "24,90"
+  },
+  {
+    "title": "İnce Memed 3",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:106052/wi:100/wh:true",
+    "author": "Yaşar Kemal",
+    "price": "62,00"
+  },
+  {
+    "title": "Dem Bu Demdir Saat Bu Saat / Gönül Sadası’ndan Akisler 4",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11568398/wi:100/wh:true",
+    "author": "Dr. Kemal Sayar",
+    "price": "50,00"
+  },
+  {
+    "title": "İnci",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11296928/wi:100/wh:true",
+    "author": "John Steinbeck",
+    "price": "24,00"
+  },
+  {
+    "title": "Lordlar ve Varisler / Hepimiz Gökyüzü Olmak İstedik (Kutu)",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11480719/wi:100/wh:true",
+    "author": "N. G. Kabal",
+    "price": "129,00"
+  },
+  {
+    "title": "Yabancı ",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11398685/wi:100/wh:true",
+    "author": "Albert Camus",
+    "price": "35,00"
+  },
+  {
+    "title": "03:03 Dolunayda Açan Çiçek (Cep Boy)",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11560174/wi:100/wh:true",
+    "author": "N. G. Kabal",
+    "price": "24,90"
+  },
+  {
+    "title": "Sofie'nin Dünyası Felsefe Tarihi Üzerine Bir Roman",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11412952/wi:100/wh:true",
+    "author": "Jostein Gaarder",
+    "price": "100,00"
+  },
+  {
+    "title": "00:00 Biri Sizi Düşünüyor (Cep Boy)",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11560170/wi:100/wh:true",
+    "author": "N. G. Kabal",
+    "price": "24,90"
+  },
+  {
+    "title": "Küçük Prens",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11345522/wi:100/wh:true",
+    "author": "Antoine De Saint Exupery",
+    "price": "9,00"
+  },
+  {
+    "title": "01:01 Bugün Adımı Sen Koy (Cep Boy)",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11560171/wi:100/wh:true",
+    "author": "N. G. Kabal",
+    "price": "24,90"
+  },
+  {
+    "title": "On Kişiydiler (On Küçük Zenci)",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11356189/wi:100/wh:true",
+    "author": "Agatha Christie",
+    "price": "48,00"
+  },
+  {
+    "title": "Benim Adım Sena  ",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11532723/wi:100/wh:true",
+    "author": "Julia Sena Yamanoğlu",
+    "price": "50,00"
+  },
+  {
+    "title": "İnce Memed 4",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:100878/wi:100/wh:true",
+    "author": "Yaşar Kemal",
+    "price": "78,00"
+  },
+  {
+    "title": "Ya Tahammül Ya Sefer",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:285160/wi:100/wh:true",
+    "author": "Mustafa Kutlu",
+    "price": "28,00"
+  },
+  {
+    "title": "Uzun Hikaye",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:60346/wi:100/wh:true",
+    "author": "Mustafa Kutlu",
+    "price": "25,00"
+  },
+  {
+    "title": "Otomatik Portakal (Ciltsiz)",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:8539346/wi:100/wh:true",
+    "author": "Anthony Burgess",
+    "price": "22,00"
+  },
+  {
+    "title": "Masumiyet Müzesi",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:53812/wi:100/wh:true",
+    "author": "Orhan Pamuk",
+    "price": "76,00"
+  },
+  {
+    "title": "Çocuk Kalbi",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11318916/wi:100/wh:true",
+    "author": "Edmondo De Amicis",
+    "price": "9,00"
+  },
+  {
+    "title": "Emanet Çocuk",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11406364/wi:100/wh:true",
+    "author": "Claire Keegan",
+    "price": "24,00"
+  },
+  {
+    "title": "Normal İnsanlar",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11487094/wi:100/wh:true",
+    "author": "Sally Rooney",
+    "price": "49,50"
+  },
+  {
+    "title": "İnsancıklar",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11345520/wi:100/wh:true",
+    "author": "Fyodor Mihailoviç Dostoyevski",
+    "price": "9,00"
+  },
+  {
+    "title": "İnsanlığımı Yitirirken",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11557056/wi:100/wh:true",
+    "author": "Osamu Dazai",
+    "price": "25,00"
+  },
+  {
+    "title": "Momo",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:4493743/wi:100/wh:true",
+    "author": "Michael Ende",
+    "price": "59,98"
+  },
+  {
+    "title": "Sevme Sanatı / Bir Eylem Olarak Sevmek (Modern Kapak)",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11465126/wi:100/wh:true",
+    "author": "Erich Fromm",
+    "price": "35,00"
+  },
+  {
+    "title": "Gülün Adı (Ciltsiz)",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11373991/wi:100/wh:true",
+    "author": "Umberto Eco",
+    "price": "90,00"
+  },
+  {
+    "title": "Yeraltından Notlar",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11319004/wi:100/wh:true",
+    "author": "Fyodor Mihailoviç Dostoyevski",
+    "price": "9,00"
+  },
+  {
+    "title": "Tatar Çölü",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:10330721/wi:100/wh:true",
+    "author": "Dino Buzzati",
+    "price": "55,00"
+  },
+  {
+    "title": "Kapak Kızı",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11371470/wi:100/wh:true",
+    "author": "Ayfer Tunç",
+    "price": "52,00"
+  },
+  {
+    "title": "Fahrenheit 451",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11486141/wi:100/wh:true",
+    "author": "Ray Bradbury",
+    "price": "48,00"
+  },
+  {
+    "title": "İnsan Nedir?",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11522915/wi:100/wh:true",
+    "author": "Mark Twain",
+    "price": "24,00"
+  },
+  {
+    "title": "Seyir",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11491974/wi:100/wh:true",
+    "author": "Piraye ",
+    "price": "59,00"
+  },
+  {
+    "title": "Benim Hüzünlü Orospularım",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11399697/wi:100/wh:true",
+    "author": "Gabriel Garcia Marquez",
+    "price": "28,00"
+  },
+  {
+    "title": "Babamı Kim Öldürdü",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11366113/wi:100/wh:true",
+    "author": "Edouard Louis",
+    "price": "24,00"
+  },
+  {
+    "title": "Beyaz Zambaklar Ülkesinde  (Atatürk 'ün askerlere tavsiye ettiği kitap)",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11464300/wi:100/wh:true",
+    "author": "Grigory Petrov",
+    "price": "20,00"
+  },
+  {
+    "title": "Suç ve Ceza (2 Cilt)",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11401990/wi:100/wh:true",
+    "author": "Fyodor Mihailoviç Dostoyevski",
+    "price": "18,00"
+  },
+  {
+    "title": "Ya Bir Gün Kavanoz Kapakları Biterse?",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11561471/wi:100/wh:true",
+    "author": "Şeyma Çekici",
+    "price": "48,00"
+  },
+  {
+    "title": "Huzur",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:1124996/wi:100/wh:true",
+    "author": "Ahmet Hamdi Tanpınar",
+    "price": "96,00"
+  },
+  {
+    "title": "Bir Çift Yürek",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:241030/wi:100/wh:true",
+    "author": "Marlo Morgan",
+    "price": "42,00"
+  },
+  {
+    "title": "Böyle Buyurdu Zerdüşt",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11318914/wi:100/wh:true",
+    "author": "Friedrich Nietzsche",
+    "price": "9,00"
+  },
+  {
+    "title": "Dumbledore (Ciltli) & Hogwarts’in Tanınmış Müdürünün Hayatı ve Yalanları - Gayriresmî Araştırma",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11559107/wi:100/wh:true",
+    "author": "Irvin Khaytman",
+    "price": "119,00"
+  },
+  {
+    "title": "Beş Şehir",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:1106424/wi:100/wh:true",
+    "author": "Ahmet Hamdi Tanpınar",
+    "price": "60,00"
+  },
+  {
+    "title": "Dune Mesihi",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11484828/wi:100/wh:true",
+    "author": "Frank Herbert",
+    "price": "60,00"
+  },
+  {
+    "title": "Üç Kız Kardeş",
+    "image": "https://img.kitapyurdu.com/v1/getImage/fn:11452663/wi:100/wh:true",
+    "author": "İclal Aydın",
+    "price": "59,00"
+  }
+]
